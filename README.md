@@ -4,12 +4,6 @@ A modern, responsive, and visually appealing login page built using **HTML5** an
 
 ---
 
-## 📸 Preview
-
-![Screenshot](./screenshot.png) <!-- Replace with actual screenshot if available -->
-
----
-
 ## 🧰 Tech Stack
 
 - **HTML5**
